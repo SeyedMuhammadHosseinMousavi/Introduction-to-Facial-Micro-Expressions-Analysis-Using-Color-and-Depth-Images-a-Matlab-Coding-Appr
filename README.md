@@ -1,5 +1,5 @@
-# Introduction-to-Facial-Micro-Expressions-Analysis-Using-Color-and-Depth-Images-a-Matlab-Coding-Appr
-Introduction to Facial Micro Expressions Analysis Using Color and Depth Images (a Matlab Coding Approach)
+# Introduction to Facial Micro Expressions Analysis Using Color and Depth Images - Second Edition (2023)
+Introduction to Facial Micro Expressions Analysis Using Color and Depth Images (a Matlab Coding Approach) - Second Edition (2023)
 In order to use the book you need to download the book folder:
 https://drive.google.com/file/d/13bEsXjl3aoJ0SdUnTknvIiPxH5FpY855/view?usp=sharing
 or
@@ -17,5 +17,5 @@ https://github.com/programmerhosein/Introduction-to-Facial-Micro-Expressions-Ana
 Kaggle:
 https://www.kaggle.com/hosseinmousavi/introduction-to-facial-micro-expressions-analysis
 
-Mathwork:
+MathWorks:
 https://uk.mathworks.com/matlabcentral/fileexchange/89554-introduction-to-facial-micro-expressions-analysis-using-colo
