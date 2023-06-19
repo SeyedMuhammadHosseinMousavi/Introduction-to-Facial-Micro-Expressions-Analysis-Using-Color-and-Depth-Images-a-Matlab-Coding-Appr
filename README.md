@@ -1,5 +1,15 @@
 # Introduction to Facial Micro Expressions Analysis Using Color and Depth Images - Second Edition (2023)
 Introduction to Facial Micro Expressions Analysis Using Color and Depth Images (a Matlab Coding Approach) - Second Edition (2023)
+Link to the book:
+https://www.researchgate.net/publication/350470249_Introduction_to_Facial_Micro_Expressions_Analysis_Using_Color_and_Depth_Images_A_Matlab_Coding_Approach_second_Edition_-2023
+
+and 
+
+https://www.academia.edu/45636198/Introduction_to_Facial_Micro_Expressions_Analysis_Using_Color_and_Depth_Images_A_Matlab_Coding_Approach_second_Edition_2023_
+
+and 
+
+10.6084/m9.figshare.14396195
 
 Seyed Muhammad Hossein Mousavi
 mosavi.a.i.buali@gmail.com Or hossein-mousavi@ieee.org 
