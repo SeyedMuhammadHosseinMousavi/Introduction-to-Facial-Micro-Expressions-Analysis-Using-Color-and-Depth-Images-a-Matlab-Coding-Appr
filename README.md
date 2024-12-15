@@ -6,8 +6,9 @@
 - https://www.researchgate.net/publication/350470249_Introduction_to_Facial_Micro_Expressions_Analysis_Using_Color_and_Depth_Images_A_Matlab_Coding_Approach_second_Edition_-2023
 - Or
 - https://www.academia.edu/45636198/Introduction_to_Facial_Micro_Expressions_Analysis_Using_Color_and_Depth_Images_A_Matlab_Coding_Approach_second_Edition_2023_
-- Or
-- DOI: 10.6084/m9.figshare.14396195
+
+- DOI 1: https://doi.org/10.48550/arXiv.2307.06396
+- DOI 2: 10.6084/m9.figshare.14396195
 
 ### Please cite:
 - Mousavi, Seyed Muhammad Hossein. "Introduction to Facial Micro Expressions Analysis Using Color and Depth Images: A Matlab Coding Approach (2023)." arXiv preprint arXiv:2307.06396 (2023).
