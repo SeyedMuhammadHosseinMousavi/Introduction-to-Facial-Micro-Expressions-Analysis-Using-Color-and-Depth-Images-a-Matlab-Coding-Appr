@@ -38,3 +38,39 @@
 - https://drive.google.com/file/d/13bEsXjl3aoJ0SdUnTknvIiPxH5FpY855/view?usp=sharing
 - https://www.dropbox.com/s/6lxk13otemhy7jh/Introduction%20to%20Facial%20Micro%20Expressions%20Analysis%20Using%20Color%20and%20Depth%20Images%20%28a%20Matlab%20Coding%20Approach%29.rar?dl=0
 - https://www.kaggle.com/hosseinmousavi/introduction-to-facial-micro-expressions-analysis
+
+![1 2](https://github.com/user-attachments/assets/0f1edec1-0cf9-47fd-a2be-5ed210510f52)
+![2 11](https://github.com/user-attachments/assets/3433cea6-2511-449d-b704-1d3c002572b1)
+
+![3 1](https://github.com/user-attachments/assets/20bb2198-8911-493a-a9bd-95e780c5be9e)
+![3 3](https://github.com/user-attachments/assets/2c4dbc62-4bf0-41c7-a61a-0a25047441fd)
+![3 4](https://github.com/user-attachments/assets/bafcb8ca-13eb-4135-9e3f-bd97503d2ae5)
+![3 6](https://github.com/user-attachments/assets/98016ba2-6fd5-4ada-a48c-1b557c86d2d3)
+
+![3 10](https://github.com/user-attachments/assets/c5081b87-631f-4f2c-8606-194a6d89a571)
+
+![4 1 ](https://github.com/user-attachments/assets/d3c7f467-fdcc-4e29-9386-7a51378f675d)
+![4 8](https://github.com/user-attachments/assets/94dc0320-a516-4a5e-92a1-3d240bb70d1d)
+
+![5 7](https://github.com/user-attachments/assets/9a6b7998-b17e-42d5-b197-7d89564a4ed7)
+
+
+![6 1](https://github.com/user-attachments/assets/a1b47501-655e-47de-afab-db95b7c0185d)
+
+
+![6 2](https://github.com/user-attachments/assets/5ed0a324-fe62-4920-bb8a-c6cbec93a04a)
+
+![6 3](https://github.com/user-attachments/assets/251548f2-c9dc-4322-8149-c47858bff335)
+
+
+![7 1](https://github.com/user-attachments/assets/99652162-ec07-4fc0-8e83-d450b4d2ee61)
+![7 3](https://github.com/user-attachments/assets/edc07724-0932-469f-bd1c-a2e8b797dad1)
+
+![7 7](https://github.com/user-attachments/assets/a11bae15-15d7-4085-a9f9-84ca4c7e0a68)
+
+![8 1](https://github.com/user-attachments/assets/dffab18b-81c5-4a16-a310-323e31aec723)
+
+![8 2](https://github.com/user-attachments/assets/4fa0964f-a0df-428d-9097-0d8d5e904ab0)
+
+![8 4](https://github.com/user-attachments/assets/b83e7163-136d-4014-a637-f567d0125ae5)
+
