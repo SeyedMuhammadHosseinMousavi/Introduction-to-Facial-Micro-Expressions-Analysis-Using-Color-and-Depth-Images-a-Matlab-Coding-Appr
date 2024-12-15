@@ -9,6 +9,9 @@
 - Or
 - DOI: 10.6084/m9.figshare.14396195
 
+### Please cite:
+- Mousavi, Seyed Muhammad Hossein. "Introduction to Facial Micro Expressions Analysis Using Color and Depth Images: A Matlab Coding Approach (2023)." arXiv preprint arXiv:2307.06396 (2023).
+
 ### Contact
 - Seyed Muhammad Hossein Mousavi
 - mosavi.a.i.buali@gmail.com Or hossein-mousavi@ieee.org 
