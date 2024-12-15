@@ -39,6 +39,81 @@
 - https://www.dropbox.com/s/6lxk13otemhy7jh/Introduction%20to%20Facial%20Micro%20Expressions%20Analysis%20Using%20Color%20and%20Depth%20Images%20%28a%20Matlab%20Coding%20Approach%29.rar?dl=0
 - https://www.kaggle.com/hosseinmousavi/introduction-to-facial-micro-expressions-analysis
 
+
+
+## Table of Contents
+
+### Chapter 1: Introduction  
+1.1 The MATLAB Libraries  
+1.2 Outline of Chapters  
+1.3 A Note on Exercises  
+
+### Chapter 2: MATLAB Environment, Digital Images, and Sensors  
+2.1 Digital Image  
+2.2 Color and Depth Images and Sensors  
+   - 2.2.1 Image Sampling and Quantization  
+2.3 MATLAB Software Environment  
+2.4 Reading, Writing, and Showing Image Frames in MATLAB  
+2.5 Spatial and Frequency Domains  
+   - 2.5.1 Electromagnetic Spectrums  
+2.6 Pre-Processing  
+2.7 Exercises  
+
+### Chapter 3: Mid-Level Coding and More Essential Functions  
+3.1 Loops and Conditional Statements  
+   - 3.1.1 Loops  
+   - 3.1.2 Conditional Statements  
+3.2 Functions  
+3.3 Image Histogram and Noises  
+3.4 Low and High Pass Filtering in Spatial and Frequency Domains  
+3.5 Edge Detection  
+3.6 Morphological Operations  
+3.7 Image Quality Assessment (IAQ) Metrics  
+3.8 Group or Batch Processing  
+3.9 Exercises  
+
+### Chapter 4: Face Analysis, FER, and FMER  
+4.1 Face Analysis  
+4.2 Facial Parts and Muscles  
+4.3 Facial Action Coding System (FACS)  
+4.4 Facial Expressions and Micro Expressions Recognition (FER and FMER)  
+4.5 Weighting Facial Parts  
+4.6 Recording Color and Depth Data with Kinect  
+4.7 Face Detection and Extraction from Color and Depth Images  
+4.8 Exercises  
+
+### Chapter 5: Feature Extraction and Selection  
+5.1 Feature Detection and Extraction in Spatial Domain (Color and Depth)  
+5.2 Feature Detection and Extraction in Frequency Domain (Color and Depth)  
+5.3 Feature Selection or Dimensionality Reduction  
+5.4 Exercises  
+
+### Chapter 6: Classification  
+6.1 Classification Classifiers  
+   - 6.1.1 Cross Validation, Inputs, and Targets  
+   - 6.1.2 Train and Test  
+6.2 Scatter Plot, Confusion Matrix, and ROC Curve  
+6.3 Exercises  
+
+### Chapter 7: Neural Networks and Deep Learning Classification  
+7.1 Neural Networks Classification  
+7.2 Deep Learning Classification  
+7.3 Exercises  
+
+### Chapter 8: A Full Experiment (FMER on IKFDB)  
+8.1 The Project  
+8.2 Exercises  
+
+### Appendix  
+**Appendix A**: The MATLAB Image Processing and Analysis Library  
+**Appendix B**: Face Datasets  
+**Appendix C**: Advanced FER Using Metaheuristics and Neural Gas Networks (NGN)  
+
+
+
+
+
+
 ![1 2](https://github.com/user-attachments/assets/0f1edec1-0cf9-47fd-a2be-5ed210510f52)
 ![2 11](https://github.com/user-attachments/assets/3433cea6-2511-449d-b704-1d3c002572b1)
 
